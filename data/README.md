@@ -2,6 +2,13 @@
 
 This project uses datasets based on **Roland Garros** tennis data.
 
+As Github has some storage constraints, the data is currently held in a **Google Drive** (might move to Huggingface later). When working with the data for this project, the workflow will be:
+
+i) Find data file you want on Google Drive
+ii) Download data to your local machine
+iii) Move data into your local repository
+iiii) Load data into code files with pandas
+
 ## 1️⃣ Raw Shot-Level Dataset
 
 The raw **Roland Garros** shot dataset (`tennis-m-shots-rg.csv.gz`) is available at:
