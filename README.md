@@ -103,6 +103,17 @@ jupyter notebook notebooks/01_eda.ipynb
 
 ---
 
+### 🙏 Acknowledgments
+
+This project made use of OpenAI's ChatGPT (GPT-5, October 2025) to assist with:
+- Drafting and formatting this README  
+- Refining project documentation  
+- Providing feedback and guidance on Python code structure and data visualization  
+
+All content and code were reviewed, edited, and validated by the project authors.
+
+---
+
 ## 📚 References
 
 1. OpenAI, “ChatGPT (Oct 2025 version),” San Francisco, CA: OpenAI.  
