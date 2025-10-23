@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2dnZWZoYzY0Nmh3Y3ptNXdhamdqcW9qMjIzb28zZ3VxOXB3Z3BkeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lq9x8oIjtTbRcA5lm9/giphy.gif" width="150" alt="Tennis & ML animated GIF" />
-  <h1 align="center">🎾 Tennis Data + Machine Learning Project</h1>
-  <p align="center">University of Tennessee — Fall 2025</p>
+  <h1 align="center">🎾 Netgain: A Tennis Prediction Tool</h1>
+  <p align="center">FDAC 2025</p>
 </p>
 
 ### 👥 Team
