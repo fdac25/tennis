@@ -1,0 +1,32 @@
+# ---- Virtual environments ----
+.venv/
+env/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# ---- Data ----
+data/
+!data/README.md           # this README.md should be kept --- it explains where to get the data
+
+# ---- OS files ----
+.DS_Store
+Thumbs.db
+
+# ---- VS Code ----
+.vscode/
+!.vscode/settings.json     # workspace settings should be kept --- they set the interpreter path
+
+# ---- Logs and caches ----
+*.log
+*.tmp
+*.bak
+*.swp
+.cache/
+
+# ---- Python / Jupyter ----
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.egg-info/
