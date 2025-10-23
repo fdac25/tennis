@@ -3,6 +3,8 @@
 The raw **Roland Garros** shot dataset (`tennis-m-shots-rg.csv.gz`) is available at:
 [OneDrive link](https://drive.google.com/file/d/14sr92fnOyu3p9tAH0nU7AnVDe_ueB145/view?usp=drive_link)
 
+When you follow the link, it might appear that the file is empty, but upon downloading and decompressing it, you should find that it's the right file.
+
 Place it in `data/raw/` before running notebooks.
 
 Then load it in Python using:
