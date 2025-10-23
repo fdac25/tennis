@@ -1,6 +1,6 @@
 # Tennis Point Analysis
 
-### 🧑‍🤝‍🧑 Team
+### 🎾 Team
 
 | Name            | NetID     | GitHub Username |
 |-----------------|------------|-----------------|
