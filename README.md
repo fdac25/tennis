@@ -117,7 +117,7 @@ All content and code were reviewed, edited, and validated by the project authors
 ## 📚 References
 
 1. OpenAI, “ChatGPT (Oct 2025 version),” San Francisco, CA: OpenAI.  
-2. USTA, “U.S. Tennis Participation Surges to 25.7 Million Players,” Feb 19 2025.  
+2. USTA, [“U.S. Tennis Participation Surges to 25.7 Million Players,”](https://www.usta.com/en/home/stay-current/midatlantic/u-s--tennis-participation-surges-to-new-high-of-25-7-million-pla.html) Feb 19 2025.  
 3. [SCORE Sports Data Repository](https://data.scorenetwork.org/tennis/tennis-shot-level-data.html)  
 4. [Jeff Sackmann’s Match Charting Project](https://www.tennisabstract.com/charting/meta.html)
 
