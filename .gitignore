@@ -8,6 +8,7 @@ __pycache__/
 # ---- Data ----
 data/
 !data/README.md           # this README.md should be kept --- it explains where to get the data
+*.npy
 
 # ---- OS files ----
 .DS_Store
